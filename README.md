@@ -1,0 +1,2 @@
+# humhub-template-theme
+WIP
