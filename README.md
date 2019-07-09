@@ -1,2 +1,2 @@
-# humhub-template-theme
+# HumHub Template Theme
 WIP
