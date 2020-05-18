@@ -10,4 +10,4 @@ This is just a template for a HumHub theme.
 - Run `lessc build.less css/theme.css`
 - Upload via FTP/SFTP or if you have a File Manager (CPanel users should have one regardless) to `/{HUMHUB-INSTANCE}/themes`.
 
-> Note: You should do as [HumHub's Docs](http://docs.humhub.org/theme-tutorial.html) suggests for if you wish to do this from your server and not your PC/Desktop.
+> Note: You should do as [HumHub's Docs](https://docs.humhub.org/docs/theme/overview) suggests for if you wish to do this from your server and not your PC/Desktop.
